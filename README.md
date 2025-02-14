@@ -1,4 +1,4 @@
-# 📍 Mapty – Workout Tracker
+# Mapty – Workout Tracker
 
 Mapty is a **JavaScript-based workout tracking app** that allows users to log running and cycling workouts on an interactive map. The app utilizes **Leaflet.js** for mapping and the **browser's geolocation API** to track the user's location.
 
